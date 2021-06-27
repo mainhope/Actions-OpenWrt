@@ -18,5 +18,5 @@ sed -i '$a src-git lede https://github.com/mainhope/lede' feeds.conf.default
 
 # 添加luci-app-packages and small
 cd package/lean
-git clone https://github.com/mainhope/openwrt-luci-packages.git
-git clone https://github.com/mainhope/openwrt-luci-packages-small.git
+git clone https://github.com/kenzok8/openwrt-packages.git
+git clone https://github.com/kenzok8/small.git
