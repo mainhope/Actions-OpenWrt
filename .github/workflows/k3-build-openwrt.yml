@@ -26,7 +26,7 @@ env:
   
   REPO_URL: https://github.com/mainhope/Lienol-openwrt
   REPO_BRANCH: main
-  CONFIG_FILE: k3.config
+  CONFIG_FILE: k3-op.config
   
   FEEDS_CONF: feeds.conf.default
   DIY_P1_SH: diy-part1.sh
