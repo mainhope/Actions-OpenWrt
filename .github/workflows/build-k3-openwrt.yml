@@ -24,7 +24,7 @@ env:
   # REPO_BRANCH: master
   # CONFIG_FILE: .config
   
-  REPO_URL: https://github.com/mainhope/Lienol-openwrt
+  REPO_URL: https://github.com/mainhope/openwrt
   REPO_BRANCH: main
   CONFIG_FILE: k3-op.config
   
