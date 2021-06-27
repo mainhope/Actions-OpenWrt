@@ -13,8 +13,5 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
-# 添加luci-app-packages and small
-cd package/lean
-git clone https://github.com/mainhope/openwrt-luci-packages.git
-git clone https://github.com/mainhope/openwrt-luci-packages-small.git
+
 
