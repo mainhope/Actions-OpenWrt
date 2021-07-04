@@ -20,13 +20,13 @@ on:
         default: 'false'
 
 env:
-  # REPO_URL: https://github.com/coolsnowwolf/lede
-  # REPO_BRANCH: master
-  # CONFIG_FILE: .config
+  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_BRANCH: master
+  CONFIG_FILE: hiwifi.config
   
-  REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: main
-  CONFIG_FILE: hiwifi-op.config
+  # REPO_URL: https://github.com/Lienol/openwrt
+  # REPO_BRANCH: main
+  # CONFIG_FILE: hiwifi-op.config
   
   FEEDS_CONF: feeds.conf.default
   DIY_P1_SH: diy-part1.sh
